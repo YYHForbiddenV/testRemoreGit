@@ -1,0 +1,6 @@
+./
+../
+.git/
+test.txt
+this is a test file 
+test end 
